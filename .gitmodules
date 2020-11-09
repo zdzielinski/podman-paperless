@@ -1,0 +1,3 @@
+[submodule "paperless"]
+	path = paperless
+	url = https://github.com/the-paperless-project/paperless.git
